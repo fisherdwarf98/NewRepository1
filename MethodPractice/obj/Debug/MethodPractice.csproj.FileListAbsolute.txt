@@ -1,0 +1,7 @@
+c:\users\fisher foster\source\repos\MethodPractice\MethodPractice\bin\Debug\MethodPractice.exe.config
+c:\users\fisher foster\source\repos\MethodPractice\MethodPractice\bin\Debug\MethodPractice.exe
+c:\users\fisher foster\source\repos\MethodPractice\MethodPractice\bin\Debug\MethodPractice.pdb
+c:\users\fisher foster\source\repos\MethodPractice\MethodPractice\obj\Debug\MethodPractice.csprojResolveAssemblyReference.cache
+c:\users\fisher foster\source\repos\MethodPractice\MethodPractice\obj\Debug\MethodPractice.csproj.CoreCompileInputs.cache
+c:\users\fisher foster\source\repos\MethodPractice\MethodPractice\obj\Debug\MethodPractice.exe
+c:\users\fisher foster\source\repos\MethodPractice\MethodPractice\obj\Debug\MethodPractice.pdb
